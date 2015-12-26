@@ -1,0 +1,74 @@
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.exe
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.pdb
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.xml
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.exe
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.xml
+C:\Users\bhi1599017\Downloads\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.exe
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.xml
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.exe
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.xml
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+C:\Users\cawo\Desktop\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
+F:\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+F:\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.exe
+F:\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.xml
+F:\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.pdb
+F:\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.exe
+F:\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.pdb
+F:\april 28\work-simulation-project\work-simulation-project\bin\Debug\work-simulation-project.xml
+F:\april 28\work-simulation-project\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+F:\april 28\work-simulation-project\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+F:\april 28\work-simulation-project\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.exe
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.xml
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.xml
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
+G:\april 28\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+G:\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.exe
+G:\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.xml
+G:\april 28\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.pdb
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.exe
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.xml
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.pdb
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.pdb
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\bin\Debug\work-simulation-project.xml
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+C:\Users\bhi1599017\Downloads\burn\work-simulation-project - Copy\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.exe
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.xml
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.pdb
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.xml
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+C:\Users\cawo\Desktop\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe.config
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.exe
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.xml
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.pdb
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.exe
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.pdb
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\bin\Debug\work-simulation-project.xml
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work_simulation_project.Form1.resources
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work_simulation_project.Resources.resources
+D:\TERM 1\april 28\work-simulation-project - Copy - Copy\work-simulation-project\obj\Debug\work-simulation-project.vbproj.GenerateResource.Cache
